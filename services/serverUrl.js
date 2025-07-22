@@ -1,0 +1,1 @@
+export const serverUrl="https://metube-app.onrender.com"
